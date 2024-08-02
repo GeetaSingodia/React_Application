@@ -1,0 +1,29 @@
+
+/* Header component styles */
+
+header {
+  background-color:#525b6c ;
+  padding: 26px;
+  color: white;
+  text-align: center;
+  
+}
+
+/* content component styles */
+
+.content {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Footer component styles */
+
+footer {
+  background-color:#525b6c ;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
